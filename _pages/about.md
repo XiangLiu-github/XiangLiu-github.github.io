@@ -3,28 +3,22 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+ - /about/
+ - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am an atmospheric environment researcher pursuing a master's degree at
+the School of Atmospheric Sciences, Nanjing University. I earned my B.A. in
+Environmental Engineering from China's University of Ming and Technology.
+I am interested in applying machine learning tools and causal inference techniques
+to remote sensing data and atmospheric environment fields e.g., air pollution, and climate change.
+I use *[R](https://cran.r-project.org/)* to do my most research, and I am a *[tidy data](https://doi.org/10.18637/jss.v059.i10)* fan and enthusiast.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+My academic work has been [published](publications) or forthcoming in *Earth's Future*,
+*Geophisical Research Letters*, and *Nature Food*. These prior researches explored
+how much crop yield has been damaged by air pollution and heat stress in the U.S.,
+how to use state-of-art machine learning methods to upscale the surface measurements
+to a global survey of ozone distribution, and what degree of China's food security would
+be enhanced by improved air quality policies. I used a broad variety of methods such as 
+statistical learning, geospatial analysis, and big data.
