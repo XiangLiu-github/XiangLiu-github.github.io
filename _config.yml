@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Liu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiang Liu"
 description              : &description "Master student at Nanjing University"
