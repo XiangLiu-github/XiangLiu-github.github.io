@@ -3,6 +3,8 @@ permalink: /software/
 title: "Software"
 ---
 
+I support [open code and open data](https://doi.org/10.1038/ngeo2283) for repeatability and reproducibility in open science.
+
 # Code
 
 Release code for paper entitled "Significant reductions in crop yields from air pollution and heat stress in the United States" [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4922064.svg)](https://doi.org/10.5281/zenodo.4922064)
