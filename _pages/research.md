@@ -7,27 +7,9 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My academic research falls into three main areas: machine learning applications in the atmospheric environment, impacts and adaptations of the human system to climate change, and processes and interactions between air pollution and the biosphere. One strand of research in this first area generates a global full-coverage ozone dataset that relies on a novel machine-learning method. My interests in environmental studies and atmospheric science also inform the projects on analyzing the anthropogenic influences on Earth as well as the feedback to humans.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
-
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+My main research agenda uses advanced statistical models to establish the relationships between a wide range of outcomes (crop yields and SIF) with climate and air pollution. These researches are relying on publicly available data from remote sensing and numberic models. In a new avenue of research, I plan to use machine learning and big data to explore the interplays between human and nature.
 
 <nbsp>
 
