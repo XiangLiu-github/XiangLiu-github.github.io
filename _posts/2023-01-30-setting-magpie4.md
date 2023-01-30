@@ -1,12 +1,11 @@
 ---
-title: 'Combining PDF Documents'
-date: 2019-06-26
+title: 'Running Magpie4 in local environment'
+date: 2023-01-30
 permalink: /posts/2019/06/combining-pdfs/
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - references
-  - bash
+  - magpie4
 ---
 
 How many times have you found that your institution has access to a digital version of a book you need only to discover that it comes in 15 different PDF files?
