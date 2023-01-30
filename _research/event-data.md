@@ -1,11 +1,11 @@
 ---
 title: "Conflict event data"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/ozone_map.jpg' alt=''>"
 collection: research
 order_number: 20
 header: 
-  og_image: "research/map.png"
+  og_image: "research/ozone_map.jpg"
 ---
 
 In this project, We used numerous datasets from remote sensing, reanalysis, socioeconomic, and etc. sources, which integrate with the surface ozone measurements from Tropospheric Ozone Assessment Report and China National Environmental Monitoring Center. We then develop a state-of-the-art machine learning algorithm based on the combined tabular dataset to predict the ozone levels where data are not available. This model is based on ensemble learning that uses a geographically weighted generalized additive model to stack predictions of six algorithms. Furthermore, we used a cluster-enhanced procedure to enhance the model performance, because it can partially account for the spatial heterogeneity.
