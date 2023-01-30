@@ -10,7 +10,7 @@ header:
 
 In this project, We used numerous datasets from remote sensing, reanalysis, and socioeconomic sources, which integrate with the surface ozone measurements from Tropospheric Ozone Assessment Report and China National Environmental Monitoring Center. We then develop a state-of-the-art machine learning algorithm based on the combined tabular dataset to predict the ozone levels where data are not available. This model is based on ensemble learning that uses a geographically weighted generalized additive model to stack predictions of six algorithms. Furthermore, we used a cluster-enhanced procedure to enhance the model performance, because it can partially account for the spatial heterogeneity.
 
-The key findings of this paper are that 1) the best-fit algorithm we developed, 2) the produced ozone maps can be useful to evaluate the global health impacts of ozone, and 3) the striking increasing trends in China are covered from this dataset. The ozone data is freely accessible in [Zenodo](software).
+The key findings of this paper are that 1) the best-fit algorithm we developed, 2) the produced ozone maps can be useful to evaluate the global health impacts of ozone, and 3) the striking increasing trends in China are covered from this dataset. The ozone data is freely accessible in [Zenodo](../software).
 
 ## Article
 
