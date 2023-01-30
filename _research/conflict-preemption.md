@@ -1,11 +1,11 @@
 ---
 title: "Conflict preemption"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/us_crop.jpg' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/epr.png"
+  og_image: "research/us_crop.jpg"
 ---
 
 Agriculture is facing the unprecedented risk of climate change. Feeding the world population requires coping with emerging global warming and extreme events. In the meantime, because of fossil fuel combustion, the human system has emitted tons of air pollution precursors. Irrespective of air pollutants (ozone and aerosols) adversely impacting human health, they also substantially influence vegetation. Moreover, considering the compound drivers of crop yields, such as heat and ozone episodes, the crop failure may have been larger than previously thought. 
