@@ -1,5 +1,5 @@
 ---
-title: "Conflict event data"
+title: "Global ozone data"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ozone_map.jpg' alt=''>"
 collection: research
