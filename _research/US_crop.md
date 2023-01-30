@@ -1,5 +1,5 @@
 ---
-title: "Conflict preemption"
+title: "Heat stress, air pollution, and crop yield"
 layout: single-portfolio
 excerpt: "<img src='/images/research/us_crop.jpg' alt=''>"
 collection: research
