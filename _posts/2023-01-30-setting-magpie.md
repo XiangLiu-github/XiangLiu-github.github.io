@@ -101,6 +101,9 @@ podman machine init --cpus 2 --memory 4096
 
 # Install mapgie and related packages
 
+You must obtain the GAMS license and move it to working dir before using dockerfile.
+
+Then
 ```
 sudo podman build -t magpie .
 podman exec -it magpie /bin/bash
