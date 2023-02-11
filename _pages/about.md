@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I am an atmospheric environment researcher pursuing a master's degree at
-the School of Atmospheric Sciences, [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University). I earned my B.E. in
+the School of Atmospheric Sciences, [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University). I earned my B.Eng. in
 Environmental Engineering from [China University of Mining and Technology](https://en.wikipedia.org/wiki/China_University_of_Mining_and_Technology).
 I am interested in applying machine learning tools and causal inference techniques
 to plant and human health outcomes with atmospheric environment fields e.g., air pollution, and climate change.
