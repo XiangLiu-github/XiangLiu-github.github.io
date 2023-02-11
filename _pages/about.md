@@ -18,7 +18,7 @@ I use *[R](https://cran.r-project.org/)* to do my most research, and I am a *[ti
 My academic work has been [published](publications) or forthcoming in *Earth's Future*,
 *Geophysical Research Letters*, and *Nature Food*. These prior researches explored
 how much crop yield has been damaged by air pollution and heat stress in the U.S.,
-how to use state-of-art machine learning methods to upscale the surface measurements
+how to use state-of-the-art machine learning methods to upscale the surface measurements
 to a global survey of ozone distribution, and what degree of China's food security would
 be enhanced by improved air quality policies. I used a broad variety of methods such as 
 statistical learning, geospatial analysis, and big data.
