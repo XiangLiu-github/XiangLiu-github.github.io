@@ -22,3 +22,5 @@ how to use state-of-the-art machine learning methods to upscale the surface meas
 to a global survey of ozone distribution, and what degree of China's food security would
 be enhanced by improved air quality policies. I used a broad variety of methods such as 
 statistical learning, geospatial analysis, and big data.
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ffb00qo0r9&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
