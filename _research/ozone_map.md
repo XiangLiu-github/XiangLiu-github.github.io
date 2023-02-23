@@ -8,9 +8,9 @@ header:
   og_image: "research/ozone_map.jpg"
 ---
 
-In this project, We used numerous datasets from remote sensing, reanalysis, socioeconomic, and etc. sources, which integrate with the surface ozone measurements from Tropospheric Ozone Assessment Report and China National Environmental Monitoring Center. We then develop a state-of-the-art machine learning algorithm based on the combined tabular dataset to predict the ozone levels where data are not available. This model is based on ensemble learning that uses a geographically weighted generalized additive model to stack predictions of six algorithms. Furthermore, we used a cluster-enhanced procedure to enhance the model performance, because it can partially account for the spatial heterogeneity.
+For this project, we utilized various datasets from sources such as remote sensing, reanalysis, and socioeconomic data, along with surface ozone measurements from the Tropospheric Ozone Assessment Report and China National Environmental Monitoring Center. We then developed a cutting-edge machine learning algorithm by combining these datasets to predict ozone levels in areas where data is not available. The algorithm relies on ensemble learning and uses a geographically weighted generalized additive model to stack the predictions of six algorithms. Additionally, we utilized a cluster-enhanced procedure to improve model performance, accounting for spatial heterogeneity.
 
-The key findings of this paper are that 1) the best-fit algorithm we developed, 2) the produced ozone maps can be useful to evaluate the global health impacts of ozone, and 3) the striking increasing trends in China are covered from this dataset. The ozone data is freely accessible in [Zenodo](../../software).
+The key takeaways from our research are: 1) the successful development of the best-fit algorithm, 2) the production of useful ozone maps to evaluate global health impacts, and 3) the coverage of striking increasing trends in China through the dataset. Access to the ozone data is available for free on [Zenodo](../../software).
 
 ## Article
 
