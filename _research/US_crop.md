@@ -8,9 +8,11 @@ header:
   og_image: "research/us_crop.jpg"
 ---
 
-Agriculture is facing the unprecedented risk of climate change. Feeding the world population requires coping with emerging global warming and extreme events. In the meantime, because of fossil fuel combustion, the human system has emitted tons of air pollution precursors. Irrespective of air pollutants (ozone and aerosols) adversely impacting human health, they also substantially influence vegetation. Moreover, considering the compound drivers of crop yields, such as heat and ozone episodes, the crop failure may have been larger than previously thought. 
+Agriculture is facing an unprecedented risk due to climate change. Feeding the world population requires coping with emerging global warming and extreme weather events. However, due to fossil fuel combustion, the human system has emitted tons of air pollution precursors that adversely impact human health and substantially influence vegetation.
 
-To fully account for the aforementioned factors, we made a wide collection of data in the U.S., including statistics, climate, and air pollution, and merge them into a panel dataset. Then, we built a regression model to investigate the relationships between these variables and crop yields. This model also contains the fixed effect for projecting out the invariant factors in counties as well as common trends in agricultural practice. More importantly, we find that climate and air pollution interactions are vitally essential to crop yields. Our results suggest that we could improve crop yield through air pollution mitigation, and reduce the damage from the interactive effects of air pollutants and climate change.
+Considering the compound drivers of crop yields, such as heat and ozone episodes, crop failure may be larger than previously thought. To account for these factors, we collected a wide range of data in the U.S., including statistics, climate, and air pollution, and merged them into a panel dataset. We built a regression model to investigate the relationships between these variables and crop yields. The model includes fixed effects to account for invariant factors in counties and common trends in agricultural practice.
+
+Our research reveals that climate and air pollution interactions are vitally essential to crop yields. We find that air pollution mitigation can improve crop yield and reduce the damage from the interactive effects of air pollutants and climate change.
 
 ## Article
 
