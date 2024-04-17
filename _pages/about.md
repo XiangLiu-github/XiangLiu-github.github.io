@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-Hello and welcome! I am a researcher specializing in climate change, air pollution, and agriculture. I will be a PhD student in the Department of Earth and Planetary Sciences at [Harvard University](https://www.harvard.edu/) this fall. Currently, I am pursuing a master's degree at the School of Atmospheric Sciences, [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University). I received my B.Eng. in Environmental Engineering from the [China University of Mining and Technology](https://en.wikipedia.org/wiki/China_University_of_Mining_and_Technology).
+Hello and welcome! I am a researcher specializing in climate change, air pollution, and agriculture. I will be a PhD student in the Department of Earth and Planetary Sciences at [Harvard University](https://www.harvard.edu/) in this fall. Currently, I am pursuing a master's degree at the School of Atmospheric Sciences, [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University). I received my B.Eng. in Environmental Engineering from the [China University of Mining and Technology](https://en.wikipedia.org/wiki/China_University_of_Mining_and_Technology).
 
 My research interests involve using machine learning tools and causal inference techniques to study the impact of atmospheric environmental factors, such as air pollution and climate change, on plant and human health outcomes. I primarily use the programming language [R](https://cran.r-project.org/) for my research and am particularly passionate about working with *[tidy data](https://doi.org/10.18637/jss.v059.i10)*.
 
