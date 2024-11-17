@@ -16,4 +16,4 @@ I have had my academic work published or forthcoming in *Earth's Future*, *Geoph
 
 Please check out my [publications](publications) to learn more about my work.
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=56obmqpslpy&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=170" async="async"></script>
+<a href="http://s01.flagcounter.com/more/b6I"><img src="https://s01.flagcounter.com/mini/b6I/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
