@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiang Liu"
-description              : &description "Master student at Nanjing University"
+description              : &description "PhD student at Harvard University"
 url                      : https://xiangliu-github.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiangLiu-github/XiangLiu-github.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Xiang Liu"
   avatar           : "profile.png"
-  bio              : "Atmospheric Environment Researcher"
-  location         : "Nanjing, Jiangsu, China"
+  bio              : "Atmospheric Science PhD student"
+  location         : "Cambridge, MA, US"
   employer         : 
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-2748-9550"
   googlescholar    : "https://scholar.google.com/citations?user=pBPQhnoAAAAJ"
-  email            : "xliu21@smail.nju.edu.cn"
+  email            : "xiangliu@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
